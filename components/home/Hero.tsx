@@ -32,8 +32,10 @@ const Hero: React.FC = () => {
           {t('hero.subtitle')}
         </p>
         <button
-          onClick={scrollToGrades}
-          className="bg-brand-gold text-white font-semibold py-3 px-8 rounded-full text-lg hover:bg-opacity-90 transform hover:scale-105 transition-all duration-300 shadow-lg"
+          href="https://wa.me/919940105777?text=Hello%20Dollar%20Cardamoms%20team,%20happy%20to%20connect%20with%20you"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block bg-brand-gold text-white px-6 py-3 rounded-lg font-semibold hover:bg-brand-green transition-colors duration-300 shadow-lg drop-shadow-md"
         >
           {t('hero.cta')}
         </button>
