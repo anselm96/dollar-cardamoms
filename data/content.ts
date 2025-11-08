@@ -262,7 +262,7 @@ export const content = {
         address_label: { en: "Address", ar: "العنوان" },
         address: { en: "Noor Exports, No. 7, State Bank of India Officers Colony, 1st Street, Thiruvottiyur, Chennai - 600019, Tamil Nadu - INDIA", ar: "نور إكسبورتس، رقم 7، مستعمرة ضباط بنك الدولة الهندي، الشارع الأول، ثيروفوتيور، تشيناي - 600019، تاميل نادو - الهند" },
         email_label: { en: "Email", ar: "البريد الإلكتروني" },
-        email_value: { en: "noorexportdesk@gmail.com", ar: "noorexportdesk@gmail.com" },
+        email_value: { en: "noorexportsdesk@gmail.com", ar: "noorexportsdesk@gmail.com" },
         phone_label: { en: "Customer Care", ar: "خدمة العملاء" },
         phone_value: { en: "+91 9940105777", ar: "+91 9940105777" },
         newsletter: { en: "Subscribe for recipes & news", ar: "اشترك للحصول على الوصفات والأخبار" },

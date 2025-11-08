@@ -39,7 +39,7 @@ const TermsPage: React.FC = () => {
       <p>We reserve the right to modify these Terms at any time. We will notify you of any changes by posting the new Terms on this Site and updating the "Last Updated" date.</p>
       
       <h2>10. Contact Us</h2>
-      <p>If you have any questions about these Terms, please contact us at: Noor Exports Email: <a href="mailto:noorexportdesk@gmail.com">noorexportdesk@gmail.com</a> Phone: +91 9940105777 Address: No. 7, State Bank of India Officers Colony 1st street, Thiruvottiyur, Chennai - 600019, Tamilnadu - INDIA</p>
+      <p>If you have any questions about these Terms, please contact us at: Noor Exports Email: <a href="mailto:noorexportsdesk@gmail.com">noorexportsdesk@gmail.com</a> Phone: +91 9940105777 Address: No. 7, State Bank of India Officers Colony 1st street, Thiruvottiyur, Chennai - 600019, Tamilnadu - INDIA</p>
     </div>
   );
 
@@ -78,7 +78,7 @@ const TermsPage: React.FC = () => {
       <p>نحن نحتفظ بالحق في تعديل هذه الشروط في أي وقت. سنقوم بإخطاركم بأي تغييرات عن طريق نشر الشروط الجديدة على هذا الموقع وتحديث تاريخ "آخر تحديث".</p>
 
       <h2>10. اتصل بنا</h2>
-      <p>إذا كان لديكم أي أسئلة حول هذه الشروط، يرجى الاتصال بنا على: نور إكسبورتس البريد الإلكتروني: <a href="mailto:noorexportdesk@gmail.com">noorexportdesk@gmail.com</a> الهاتف: +91 9940105777 العنوان: رقم 7، مستعمرة ضباط بنك الدولة الهندي، الشارع الأول، ثيروفوتيور، تشيناي - 600019، تاميل نادو - الهند.</p>
+      <p>إذا كان لديكم أي أسئلة حول هذه الشروط، يرجى الاتصال بنا على: نور إكسبورتس البريد الإلكتروني: <a href="mailto:noorexportsdesk@gmail.com">noorexportsdesk@gmail.com</a> الهاتف: +91 9940105777 العنوان: رقم 7، مستعمرة ضباط بنك الدولة الهندي، الشارع الأول، ثيروفوتيور، تشيناي - 600019، تاميل نادو - الهند.</p>
     </div>
   );
 

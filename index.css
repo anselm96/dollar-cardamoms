@@ -1,4 +1,24 @@
 /* Tailwind via CDN handles most styles. This file prevents 404s and adds minor tweaks. */
 html, body { min-height: 100%; }
 :root { color-scheme: light; }
+
+.whatsapp-fab { transition: transform 0.15s ease; }
+.whatsapp-fab:hover { transform: scale(1.06); }
+
+@media (max-width: 420px) {
+  .whatsapp-fab {
+    right: 14px;
+    bottom: 18px;
+    width: 52px;
+    height: 52px;
+  }
+}
+@media (min-width: 421px) {
+  .whatsapp-fab {
+    right: 24px;
+    bottom: 24px;
+    width: 60px;
+    height: 60px;
+  }
+}
     

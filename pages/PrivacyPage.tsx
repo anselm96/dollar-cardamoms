@@ -60,7 +60,7 @@ const PrivacyPage: React.FC = () => {
       <h2>11. Contact Us</h2>
       <p>
         If you have any questions about this Privacy Policy, please contact us at: Noor Exports Email:
-        <a href="mailto:noorexportdesk@gmail.com">noorexportdesk@gmail.com</a> Phone: +91 9940105777 Address: No. 7, State Bank of India Officers Colony 1st street, Thiruvottiyur, Chennai - 600019, Tamilnadu - INDIA
+        <a href="mailto:noorexportsdesk@gmail.com">noorexportsdesk@gmail.com</a> Phone: +91 9940105777 Address: No. 7, State Bank of India Officers Colony 1st street, Thiruvottiyur, Chennai - 600019, Tamilnadu - INDIA
       </p>
     </div>
   );
@@ -121,7 +121,7 @@ const PrivacyPage: React.FC = () => {
       <h2>11. اتصل بنا</h2>
       <p>
         إذا كان لديكم أي أسئلة حول سياسة الخصوصية هذه، يرجى الاتصال بنا على: نور إكسبورتس البريد الإلكتروني:
-        <a href="mailto:noorexportdesk@gmail.com">noorexportdesk@gmail.com</a> الهاتف: +91 9940105777 العنوان: رقم 7، مستعمرة ضباط بنك الدولة الهندي، الشارع الأول، ثيروفوتيور، تشيناي - 600019، تاميل نادو - الهند.
+        <a href="mailto:noorexportsdesk@gmail.com">noorexportsdesk@gmail.com</a> الهاتف: +91 9940105777 العنوان: رقم 7، مستعمرة ضباط بنك الدولة الهندي، الشارع الأول، ثيروفوتيور، تشيناي - 600019، تاميل نادو - الهند.
       </p>
     </div>
   );

@@ -11,6 +11,8 @@ import TermsPage from './pages/TermsPage';
 import PrivacyPage from './pages/PrivacyPage';
 import PageWrapper from './components/PageWrapper';
 import ScrollToTop from './components/ui/ScrollToTop';
+import WhatsAppFab from "./components/WhatsAppFab";
+
 
 
 const App: React.FC = () => {
@@ -29,6 +31,9 @@ const App: React.FC = () => {
             <Route path="/terms" element={<TermsPage />} />
             <Route path="/privacy" element={<PrivacyPage />} />
           </Routes>
+          
+          {/* ✅ WhatsApp floating button added */}
+          <WhatsAppFab />
         </PageWrapper>
       </HashRouter>
     </LanguageProvider>
